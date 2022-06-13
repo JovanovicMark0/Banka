@@ -1,0 +1,10 @@
+aktivan,RBC,0011223344,3,5
+neaktivan,RBC,0011223344,0,100
+neaktivan,RBC,0011223344,0,200
+aktivan,Santander,0011223344,3,5
+neaktivan,Wells Fargo,0011223344,0,0
+aktivan,Wells Fargo,0011223344,20,100
+neaktivan,Wells Fargo,1122334455,0,0
+aktivan,Wells Fargo,1122334455,20,100
+neaktivan,Santander,1122334455,0,10
+aktivan,Wells Fargo,2233445566,20,250
