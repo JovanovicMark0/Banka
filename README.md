@@ -1,4 +1,4 @@
-Banka
+Banka -
 Potrebno je kreirati konzolnu aplikaciju koja simulira rad banaka.
 Klijent može da zahteva kredit od banke. Korisnik unosi naziv banke, lične podatke
 klijenta (ime, jmbg, mesečna primanja, godine radnog staza), iznos kredita, broj
